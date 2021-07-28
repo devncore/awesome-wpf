@@ -14,3 +14,5 @@
 - **Sams teach yourself WPF in 24 hours** _by 로버트 아이젠버그_
 - **WPF in Action with Visual Studio 2008** _by 알렌 S. 펠드만, 맥스 데이몬_
 - **Pro WPF in C# 2010: Windows Presentation Foundation in .NET 4** _by 매튜 맥도날드_
+- **Pro WPF with VB 2008: Windows Presentation Foundation with .NET 3.5** _by 매튜 맥도날드_
+- **Mastering Windows Presentation Foundation: Build Responsive UIs for Desktop Applications with WPF, 2nd Edition** _by 쉐리단 유엔_
