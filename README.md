@@ -13,3 +13,4 @@
 - **Professional WPF Programming: .NET Development with the Windows Presentation Foundation** _by 마이클 메이어스, 스콧 반 블리엣, 숀 리버모어, 크리스 안드라데_
 - **Sams teach yourself WPF in 24 hours** _by 로버트 아이젠버그_
 - **WPF in Action with Visual Studio 2008** _by 알렌 S. 펠드만, 맥스 데이몬_
+- **Pro WPF in C# 2010: Windows Presentation Foundation in .NET 4** _by 매튜 맥도날드_
