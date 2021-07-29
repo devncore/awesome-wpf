@@ -26,6 +26,7 @@
 | ![image][wpf-03] | Programming WPF: Building Windows UI with Windows Presentation Foundation | Ian Griffith, Chris Sells | 2007 |
 | ![image][wpf-04] | Pro WPF 4.5 in C#: Windows Presentation Foundation in .NET 4.5 | Matthew MacDonald | 2012 |
 | ![image][wpf-05] | Essential Windows Presentation Foundation (WPF) | Chris Anderson | 2012 |
+| ![image][wpf-06] | WPF Control Development Unleashed: Building Advanced User Experiences | Pavan Podila, Kevin Hoffman | 2012 |
 | ![image][wpf-20] | Illustrated WPF | Daniel Solis | 2009 |
 
 
@@ -36,7 +37,7 @@
 [wpf-03]: https://user-images.githubusercontent.com/52397976/127425026-7a338d1a-aaba-4013-8115-b140e8b3845b.png
 [wpf-04]: https://user-images.githubusercontent.com/52397976/127425761-e54c8711-793d-4063-a29b-34a59a72db78.png
 [wpf-05]: https://user-images.githubusercontent.com/52397976/127431202-f1b2ac12-db98-469b-ae3f-ef67fde4e2a5.png
-
+[wpf-06]: https://user-images.githubusercontent.com/52397976/127431598-c9c0d140-88be-45c8-9c6a-0be9643cf319.png
 
 
 [wpf-20]: https://user-images.githubusercontent.com/52397976/127423688-c14f0878-cf90-4570-8082-7821162eaf90.png
