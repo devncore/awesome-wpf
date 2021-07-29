@@ -37,7 +37,7 @@
 | ![image][wpf-23] | XAML Developer Reference | Ashish Ghoda, Mamta Dalal | 2011 |
 | ![image][wpf-24] | MVVM Survival Guide for Enterprise Architectures in Silverlight and WPF | Muhammad Shujaat Siddiqi, Ryan Vice | 2012 |
 | ![image][wpf-25] | MVVM Unleashed | Michael Brown | 2012 |
-| ![image][wpf-26] |  |  |  |
+| ![image][wpf-26] | Practical WPF Graphics Programming: Advanced .NET Graphics Development with the Windows Presentation Foundation Jack Xu | Jack Xu | 2007 |
 | ![image][wpf-27] |  |  |  |
 | ![image][wpf-28] |  |  |  |
 | ![image][wpf-29] |  |  |  |
@@ -74,4 +74,5 @@
 [wpf-23]: https://user-images.githubusercontent.com/52397976/127446609-56c717cf-7abf-4703-a281-4025a627f9f1.png
 [wpf-24]: https://user-images.githubusercontent.com/52397976/127455667-92c3b628-2ca7-4993-b155-ba26a525d7ef.png
 [wpf-25]: https://user-images.githubusercontent.com/52397976/127455890-046ddc09-2e8b-4c57-85a0-23773db30069.png
+[wpf-26]: https://user-images.githubusercontent.com/52397976/127456050-5ddb4e6c-da48-4374-b5b7-4fac8a196c54.png
 
