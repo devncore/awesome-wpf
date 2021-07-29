@@ -41,7 +41,7 @@
 | ![image][wpf-27] | Practical C# and WPF For Financial Markets | Jack Xu | 2016 |
 | ![image][wpf-28] | Developer’s Guide to Microsoft Prism 4: Building Modular MVVM Applications with Windows Presentation Foundation and Microsoft Silverlight (Patterns & Practices) | Brian Noyes, Geoff Cox, Karl Shifflett, Bob Brumfield, Michael Puleio, DAVID. HILL | 2011 |
 | ![image][wpf-29] | Pro WPF in VB 2010: Windows Presentation Foundation in .NET 4 | Matthew MacDonald | 2009 |
-| ![image][wpf-30] |  |  |  |
+| ![image][wpf-30] | Pro WPF in C# 2008: Windows Presentation Foundation with .NET 3.5 | Matthew MacDonald | 2008 |
 | ![image][wpf-31] |  |  |  |
 | ![image][wpf-32] |  |  |  |
 
@@ -78,4 +78,5 @@
 [wpf-27]: https://user-images.githubusercontent.com/52397976/127456418-194ff6dc-71a6-4ce6-8568-d76dcfebfaa3.png
 [wpf-28]: https://user-images.githubusercontent.com/52397976/127456600-7089b64d-6d70-4203-9576-08f8c920b204.png
 [wpf-29]: https://user-images.githubusercontent.com/52397976/127456941-a65a795d-309b-44d6-ac52-d6a17ceac1d8.png
+[wpf-30]: https://user-images.githubusercontent.com/52397976/127457179-f0a76d11-ad5b-485d-b8c1-2232b337dad0.png
 
