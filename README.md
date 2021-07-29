@@ -21,11 +21,15 @@
 
 | 커버 | 제목 | 저자 | 연도 | 리뷰 |
 |:---:|:----|:----|:----|:----|
-| ![image][wpf-01] | Illustrated WPF | 다니엘 솔리스 | 2009 | ... | 
+| ![image][wpf-01] | Windows Presentation Foundation Unleashed | 아담 나단 | 2006 | ... | 
+| ![image][wpf-02] | WPF 4 Unleashed| 아담 나단 | 2010 | ... | 
+| ![image][wpf-20] | Illustrated WPF | 다니엘 솔리스 | 2009 | ... | 
 
 
 
 
+[wpf-01]: https://user-images.githubusercontent.com/52397976/127424592-d8332b60-a540-4020-94c5-156b167e05f9.png
+[wpf-02]: https://user-images.githubusercontent.com/52397976/127424762-ee56b8d2-c1f8-4f7c-bf54-a8535b0fbc9b.png
 
-[wpf-01]: https://user-images.githubusercontent.com/52397976/127423688-c14f0878-cf90-4570-8082-7821162eaf90.png
+[wpf-20]: https://user-images.githubusercontent.com/52397976/127423688-c14f0878-cf90-4570-8082-7821162eaf90.png
 
