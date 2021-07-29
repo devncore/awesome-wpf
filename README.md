@@ -24,7 +24,7 @@
 | ![image][wpf-15] | Windows Presentation Foundation 4.5 Cookbook | Pavel Yosifovich | 2012 |
 | ![image][wpf-16] | Mastering Visual Studio 2017: Build windows apps using WPF and UWP, accelerate cloud development with Azure, explore NuGet, and more | Kunal Chowdhury | 2017 |
 | ![image][wpf-17] | Applications = Code + Markup: A Guide to the Microsoft Windows Presentation Foundation | Charles Petzold | 2006 |
-| ![image][wpf-18] |  |  |  |
+| ![image][wpf-18] | Pro WPF in C# 2008: Windows Presentation Foundation with .NET 3.5 | Matthew MacDonald | 2008 |
 | ![image][wpf-19] |  |  |  |
 
 
@@ -48,4 +48,5 @@
 [wpf-15]: https://user-images.githubusercontent.com/52397976/127443129-14ad2818-c35a-46af-ad20-ad43abf78afe.png
 [wpf-16]: https://user-images.githubusercontent.com/52397976/127443378-e7e1bf45-2817-404f-94f6-a607fdbb1fa9.png
 [WPF-17]: https://user-images.githubusercontent.com/52397976/127444360-a611ba71-f92c-4921-834e-8d15ce62b318.png
+[wpf-18]: https://user-images.githubusercontent.com/52397976/127444520-81675758-6e6c-495f-9c1a-44945f450029.png
 
