@@ -96,5 +96,5 @@
 [wpf-32]: https://user-images.githubusercontent.com/52397976/127458426-ac831d15-319a-489f-9cd6-3272fd106f19.png
 [wpf-33]: https://user-images.githubusercontent.com/52397976/127458813-1f671740-1fc7-4be5-8ce7-ac82d8d7de2e.png
 
-[wpf-60]: https://user-images.githubusercontent.com/52397976/127459095-c8141a77-cce1-4a71-be9e-31d9c70efdc5.png
+[wpf-60]: https://user-images.githubusercontent.com/52397976/127459796-df02b5a1-e35d-4dfa-9e85-cb97d5034546.png
 
