@@ -1,14 +1,14 @@
 # awesome-wpf
 
 ## Contents
-- [샘플 앱](#샘플 앱)
-- [책 (Books)](#책-books)
+- [WPF 애플리케이션](#wpf-애플리케이션)
+- [WPF 책](#wpf-책)
 
-## 샘플 앱
-- [틱택토 tictactoe-wpf ](https://github.com/devncore/tictactoe-wpf)
+## WPF 애플리케이션
+- [틱택토 tictactoe-wpf](https://github.com/devncore/tictactoe-wpf)
 - [리그오브레전드 leagueoflegends](https://github.com/devncore/leagueoflegends)
-- 
-## 책 (Books)
+- [탐색기 icommander](https://github.com/devncore/icommander)
+## WPF 책
 
 | 커버 | 제목 | 저자 | 연도 |
 |:---:|:----|:----|:----|
