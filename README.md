@@ -15,6 +15,7 @@
 | ![image][wpf-06] | WPF Control Development Unleashed: Building Advanced User Experiences | Pavan Podila, Kevin Hoffman | 2012 |
 | ![image][wpf-07] | Professional WPF Programming: .NET Development with the Windows Presentation Foundation | Michael Meyers, Shawn Livermore, Scott Van Vliet, Chris Andrade | 2007 |
 | ![image][wpf-08] | Sams teach yourself WPF in 24 hours | Robert Eisenberg | 2008 |
+| ![image][wpf-09] | WPF in Action with Visual Studio 2008: Covers Visual Studio 2008 Service Pack 1 and .NET 3.5 Service Pack 1! | Arlen S. Feldman, Maxx Daymon | 2008|
 | ![image][wpf-20] | Illustrated WPF | Daniel Solis | 2009 |
 
 
@@ -28,6 +29,7 @@
 [wpf-06]: https://user-images.githubusercontent.com/52397976/127431598-c9c0d140-88be-45c8-9c6a-0be9643cf319.png
 [WPF-07]: https://user-images.githubusercontent.com/52397976/127431981-a5038d39-9f73-4dd2-8acd-1303792a87d1.png
 [wpf-08]: https://user-images.githubusercontent.com/52397976/127432049-17b44acf-388b-46d8-b0e6-45268419aa06.png
+[wpf-09]: https://user-images.githubusercontent.com/52397976/127441692-7fe4b982-e293-4f2f-9c6d-c5f55f477c29.png
 
 
 [wpf-20]: https://user-images.githubusercontent.com/52397976/127423688-c14f0878-cf90-4570-8082-7821162eaf90.png
