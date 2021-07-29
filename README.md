@@ -21,4 +21,11 @@
 
 | 커버 | 제목 | 리뷰 | 저자|
 |:---:|:----|:----|:----|
-|![image](https://user-images.githubusercontent.com/52397976/127423688-c14f0878-cf90-4570-8082-7821162eaf90.png)|Illustrated WPF| ㅁㅁ| 다니엘 솔리스|
+| ![image][github] | Illustrated WPF | ... | 다니엘 솔리스 |
+
+
+
+
+
+[github]: https://user-images.githubusercontent.com/52397976/127423688-c14f0878-cf90-4570-8082-7821162eaf90.png
+
