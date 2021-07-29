@@ -31,7 +31,7 @@
 [WPF-07]: https://user-images.githubusercontent.com/52397976/127431981-a5038d39-9f73-4dd2-8acd-1303792a87d1.png
 [wpf-08]: https://user-images.githubusercontent.com/52397976/127432049-17b44acf-388b-46d8-b0e6-45268419aa06.png
 [wpf-09]: https://user-images.githubusercontent.com/52397976/127441692-7fe4b982-e293-4f2f-9c6d-c5f55f477c29.png
-[wof-10]: https://user-images.githubusercontent.com/52397976/127441918-e006206a-8926-4d84-93dd-b78118e40cb7.png
+[wpf-10]: https://user-images.githubusercontent.com/52397976/127441918-e006206a-8926-4d84-93dd-b78118e40cb7.png
 
 
 [wpf-20]: https://user-images.githubusercontent.com/52397976/127423688-c14f0878-cf90-4570-8082-7821162eaf90.png
