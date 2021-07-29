@@ -17,7 +17,15 @@
 | ![image][wpf-08] | WPF in Action with Visual Studio 2008: Covers Visual Studio 2008 Service Pack 1 and .NET 3.5 Service Pack 1! | Arlen S. Feldman, Maxx Daymon | 2008|
 | ![image][wpf-09] | Pro WPF in C# 2010: Windows Presentation Foundation in .NET 4 | Matthew MacDonald | 2009 |
 | ![image][wpf-10] | Sams teach yourself WPF in 24 hours | Robert Eisenberg | 2008 |
-|||||
+| ![image][wpf-11] | Mastering Windows Presentation Foundation: Build Responsive UIs for Desktop Applications with WPF, 2nd Edition | Sheridan Yuen | 2020 |
+| ![image][wpf-12] |  |  |  |
+| ![image][wpf-13] |  |  |  |
+| ![image][wpf-14] |  |  |  |
+| ![image][wpf-15] |  |  |  |
+| ![image][wpf-16] |  |  |  |
+| ![image][wpf-17] |  |  |  |
+| ![image][wpf-18] |  |  |  |
+| ![image][wpf-19] |  |  |  |
 | ![image][wpf-20] | Illustrated WPF | Daniel Solis | 2009 |
 
 
@@ -33,6 +41,7 @@
 [wpf-08]: https://user-images.githubusercontent.com/52397976/127441692-7fe4b982-e293-4f2f-9c6d-c5f55f477c29.png
 [wpf-09]: https://user-images.githubusercontent.com/52397976/127441918-e006206a-8926-4d84-93dd-b78118e40cb7.png
 [wpf-10]: https://user-images.githubusercontent.com/52397976/127432049-17b44acf-388b-46d8-b0e6-45268419aa06.png
+[wpf-11]: https://user-images.githubusercontent.com/52397976/127442368-1d9f64db-3650-4f8f-897f-f99a870e20e9.png
 
 [wpf-20]: https://user-images.githubusercontent.com/52397976/127423688-c14f0878-cf90-4570-8082-7821162eaf90.png
 
