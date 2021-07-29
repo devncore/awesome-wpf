@@ -16,3 +16,9 @@
 - **Pro WPF in C# 2010: Windows Presentation Foundation in .NET 4** _by 매튜 맥도날드_
 - **Pro WPF with VB 2008: Windows Presentation Foundation with .NET 3.5** _by 매튜 맥도날드_
 - **Mastering Windows Presentation Foundation: Build Responsive UIs for Desktop Applications with WPF, 2nd Edition** _by 쉐리단 유엔_
+- **Windows Presentation Foundation Development Cookbook** _by 쿠날 초두리_
+- **Illustrated WPF** _by 다니엘 솔리스_
+
+| 커버 | 제목 | 리뷰 | 저자|
+|:---:|:----|:----|
+|![image](https://user-images.githubusercontent.com/52397976/127423688-c14f0878-cf90-4570-8082-7821162eaf90.png)|Illustrated WPF| ㅁㅁ| 다니엘 솔리스|
