@@ -29,7 +29,7 @@
 | ![image][wpf-20] | Exploring Windows Presentation Foundation: With Practical Applications in .NET 5 | Taurius Litvinavicius | 2020 |
 | ![image][wpf-21] | Learn WPF MVVM - XAML, C# and the MVVM pattern: Be ready for coding away next week using WPF and MVVM | Arnaud Weil | 2016 |
 | ![image][wpf-22] | WPF Programmer's Reference: Windows Presentation Foundation with C# 2010 and .NET 4 | Rod Stephens | 2010 |
-| ![image][wpf-23] |  |  |  |
+| ![image][wpf-23] | XAML Developer Reference | Ashish Ghoda, Mamta Dalal | 2011 |
 | ![image][wpf-24] |  |  |  |
 | ![image][wpf-25] |  |  |  |
 | ![image][wpf-26] |  |  |  |
@@ -66,4 +66,5 @@
 [wpf-20]: https://user-images.githubusercontent.com/52397976/127445989-07f4644e-e005-49ff-a540-d885e78c073b.png
 [wpf-21]: https://user-images.githubusercontent.com/52397976/127446368-73e8bc01-a941-46f4-a268-8c2b21324b04.png
 [wpf-22]: https://user-images.githubusercontent.com/52397976/127446477-4346e8e6-26ae-4c76-8412-41bff9d116a0.png
+[wpf-23]: https://user-images.githubusercontent.com/52397976/127446609-56c717cf-7abf-4703-a281-4025a627f9f1.png
 
