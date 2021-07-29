@@ -22,7 +22,7 @@
 | ![image][wpf-13] | Windows Presentation Foundation Development Cookbook: 100 Recipes to Build Rich Desktop Client Applications on Windows | Kunal Chowdhury | 2018 |
 | ![image][wpf-14] | Illustrated WPF | Daniel Solis | 2009 |
 | ![image][wpf-15] | Windows Presentation Foundation 4.5 Cookbook | Pavel Yosifovich | 2012 |
-| ![image][wpf-16] |  |  |  |
+| ![image][wpf-16] | Mastering Visual Studio 2017: Build windows apps using WPF and UWP, accelerate cloud development with Azure, explore NuGet, and more | Kunal Chowdhury | 2017 |
 | ![image][wpf-17] |  |  |  |
 | ![image][wpf-18] |  |  |  |
 | ![image][wpf-19] |  |  |  |
@@ -46,4 +46,5 @@
 [wpf-13]: https://user-images.githubusercontent.com/52397976/127442633-31970582-1140-4f66-8286-19351165c4c3.png
 [wpf-14]: https://user-images.githubusercontent.com/52397976/127423688-c14f0878-cf90-4570-8082-7821162eaf90.png
 [wpf-15]: https://user-images.githubusercontent.com/52397976/127443129-14ad2818-c35a-46af-ad20-ad43abf78afe.png
+[wpf-16]: https://user-images.githubusercontent.com/52397976/127443378-e7e1bf45-2817-404f-94f6-a607fdbb1fa9.png
 
