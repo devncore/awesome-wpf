@@ -18,15 +18,15 @@
 | ![image][wpf-09] | Pro WPF in C# 2010: Windows Presentation Foundation in .NET 4 | Matthew MacDonald | 2009 |
 | ![image][wpf-10] | Sams teach yourself WPF in 24 hours | Robert Eisenberg | 2008 |
 | ![image][wpf-11] | Mastering Windows Presentation Foundation: Build Responsive UIs for Desktop Applications with WPF, 2nd Edition | Sheridan Yuen | 2020 |
-| ![image][wpf-12] |  |  |  |
-| ![image][wpf-13] |  |  |  |
-| ![image][wpf-14] |  |  |  |
-| ![image][wpf-15] |  |  |  |
+| ![image][wpf-12] | Pro WPF with VB 2008: Windows Presentation Foundation with .NET 3.5 | Matthew MacDonald | 2008 |
+| ![image][wpf-13] | Windows Presentation Foundation Development Cookbook: 100 Recipes to Build Rich Desktop Client Applications on Windows | Kunal Chowdhury | 2018 |
+| ![image][wpf-14] | Illustrated WPF | Daniel Solis | 2009 |
+| ![image][wpf-15] | Windows Presentation Foundation 4.5 Cookbook | Pavel Yosifovich | 2012 |
 | ![image][wpf-16] |  |  |  |
 | ![image][wpf-17] |  |  |  |
 | ![image][wpf-18] |  |  |  |
 | ![image][wpf-19] |  |  |  |
-| ![image][wpf-20] | Illustrated WPF | Daniel Solis | 2009 |
+
 
 
 
@@ -42,6 +42,8 @@
 [wpf-09]: https://user-images.githubusercontent.com/52397976/127441918-e006206a-8926-4d84-93dd-b78118e40cb7.png
 [wpf-10]: https://user-images.githubusercontent.com/52397976/127432049-17b44acf-388b-46d8-b0e6-45268419aa06.png
 [wpf-11]: https://user-images.githubusercontent.com/52397976/127442368-1d9f64db-3650-4f8f-897f-f99a870e20e9.png
-
-[wpf-20]: https://user-images.githubusercontent.com/52397976/127423688-c14f0878-cf90-4570-8082-7821162eaf90.png
+[wpf-12]: https://user-images.githubusercontent.com/52397976/127442546-d07d083e-6d33-4228-936e-ff79ae7465be.png
+[wpf-13]: https://user-images.githubusercontent.com/52397976/127442633-31970582-1140-4f66-8286-19351165c4c3.png
+[wpf-14]: https://user-images.githubusercontent.com/52397976/127423688-c14f0878-cf90-4570-8082-7821162eaf90.png
+[wpf-15]: https://user-images.githubusercontent.com/52397976/127443129-14ad2818-c35a-46af-ad20-ad43abf78afe.png
 
