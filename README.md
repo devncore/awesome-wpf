@@ -1,10 +1,10 @@
 # awesome-wpf
 
 ## Contents
-- [WPF 애플리케이션](#wpf-애플리케이션)
+- [WPF 학습 앱](#wpf-학습-앱)
 - [WPF 책](#wpf-책)
 
-## WPF 애플리케이션
+## WPF 학습 앱
 - [틱택토 tictactoe-wpf](https://github.com/devncore/tictactoe-wpf)
 - [리그오브레전드 leagueoflegends](https://github.com/devncore/leagueoflegends)
 - [탐색기 icommander](https://github.com/devncore/icommander)
