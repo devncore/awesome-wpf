@@ -25,7 +25,20 @@
 | ![image][wpf-16] | Mastering Visual Studio 2017: Build windows apps using WPF and UWP, accelerate cloud development with Azure, explore NuGet, and more | Kunal Chowdhury | 2017 |
 | ![image][wpf-17] | Applications = Code + Markup: A Guide to the Microsoft Windows Presentation Foundation | Charles Petzold | 2006 |
 | ![image][wpf-18] | Pro WPF in C# 2008: Windows Presentation Foundation with .NET 3.5 | Matthew MacDonald | 2008 |
-| ![image][wpf-19] |  |  |  |
+| ![image][wpf-19] | Pro WPF 4.5 in VB: Windows Presentation Foundation in .NET 4.5 | Matthew MacDonald | 2012 |
+| ![image][wpf-20] | Exploring Windows Presentation Foundation: With Practical Applications in .NET 5 | Taurius Litvinavicius | 2020 |
+| ![image][wpf-21] |  |  |  |
+| ![image][wpf-22] |  |  |  |
+| ![image][wpf-23] |  |  |  |
+| ![image][wpf-24] |  |  |  |
+| ![image][wpf-25] |  |  |  |
+| ![image][wpf-26] |  |  |  |
+| ![image][wpf-27] |  |  |  |
+| ![image][wpf-28] |  |  |  |
+| ![image][wpf-29] |  |  |  |
+| ![image][wpf-30] |  |  |  |
+| ![image][wpf-31] |  |  |  |
+| ![image][wpf-32] |  |  |  |
 
 
 
@@ -49,4 +62,6 @@
 [wpf-16]: https://user-images.githubusercontent.com/52397976/127443378-e7e1bf45-2817-404f-94f6-a607fdbb1fa9.png
 [WPF-17]: https://user-images.githubusercontent.com/52397976/127444360-a611ba71-f92c-4921-834e-8d15ce62b318.png
 [wpf-18]: https://user-images.githubusercontent.com/52397976/127444520-81675758-6e6c-495f-9c1a-44945f450029.png
+[wpf-19]: https://user-images.githubusercontent.com/52397976/127445856-80df775a-97f8-4389-a8f3-a317753782f8.png
+[wpf-20]: https://user-images.githubusercontent.com/52397976/127445989-07f4644e-e005-49ff-a540-d885e78c073b.png
 
