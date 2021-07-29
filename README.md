@@ -45,7 +45,7 @@
 | ![image][wpf-31] | WPF 3d: Three-Dimensional Graphics with WPF and C# | Rod Stephens | 2018 |
 | ![image][wpf-32] | Pro XAML with C#: Application Development Strategies (covers WPF, Windows 8.1, and Windows Phone 8.1) | Buddy James, Lori LaLonde | 2015 |
 | ![image][wpf-33] | WPF recipes in C# 2008 | Sam Noble | 2008 |
-| ![image][wpf-34] | 거침없이 배우는 익스프레션 블렌드 | 정진희 | 2011 |
+| ![image][wpf-60] | 거침없이 배우는 익스프레션 블렌드 | 정진희 | 2011 |
 | ![image][wpf-35] |  |  |  |
 | ![image][wpf-36] |  |  |  |
 | ![image][wpf-37] |  |  |  |
