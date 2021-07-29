@@ -35,7 +35,7 @@
 | ![image][wpf-21] | Learn WPF MVVM - XAML, C# and the MVVM pattern: Be ready for coding away next week using WPF and MVVM | Arnaud Weil | 2016 |
 | ![image][wpf-22] | WPF Programmer's Reference: Windows Presentation Foundation with C# 2010 and .NET 4 | Rod Stephens | 2010 |
 | ![image][wpf-23] | XAML Developer Reference | Ashish Ghoda, Mamta Dalal | 2011 |
-| ![image][wpf-24] |  |  |  |
+| ![image][wpf-24] | MVVM Survival Guide for Enterprise Architectures in Silverlight and WPF | Muhammad Shujaat Siddiqi, Ryan Vice | 2012 |
 | ![image][wpf-25] |  |  |  |
 | ![image][wpf-26] |  |  |  |
 | ![image][wpf-27] |  |  |  |
@@ -72,4 +72,5 @@
 [wpf-21]: https://user-images.githubusercontent.com/52397976/127446368-73e8bc01-a941-46f4-a268-8c2b21324b04.png
 [wpf-22]: https://user-images.githubusercontent.com/52397976/127446477-4346e8e6-26ae-4c76-8412-41bff9d116a0.png
 [wpf-23]: https://user-images.githubusercontent.com/52397976/127446609-56c717cf-7abf-4703-a281-4025a627f9f1.png
+[wpf-24]: https://user-images.githubusercontent.com/52397976/127455667-92c3b628-2ca7-4993-b155-ba26a525d7ef.png
 
