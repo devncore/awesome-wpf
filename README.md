@@ -21,8 +21,8 @@
 
 | 커버 | 제목 | 저자 | 연도 | 리뷰 |
 |:---:|:----|:----|:----|:----|
-| ![image][wpf-01] | Windows Presentation Foundation Unleashed | 아담 나단 | 2006 | ... | 
-| ![image][wpf-02] | WPF 4 Unleashed | 아담 나단 | 2010 | ... | 
+| ![image][wpf-01] | Windows Presentation Foundation Unleashed | Adam Nathan | 2006 | ... | 
+| ![image][wpf-02] | WPF 4 Unleashed | Adam Nathan | 2010 | ... | 
 | ![image][wpf-03] | Programming WPF: Building Windows UI with Windows Presentation Foundation | Ian Griffith, Chris Sells | 2007 | ... | 
 | ![image][wpf-20] | Illustrated WPF | 다니엘 솔리스 | 2009 | ... | 
 
