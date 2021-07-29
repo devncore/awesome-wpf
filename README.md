@@ -1,9 +1,14 @@
 # awesome-wpf
 
 ## Contents
-- [Books](#books)
+- [샘플 앱](#샘플 앱)
+- [책 (Books)](#책-books)
 
-## Books
+## 샘플 앱
+- [틱택토 tictactoe-wpf ](https://github.com/devncore/tictactoe-wpf)
+- [리그오브레전드 leagueoflegends](https://github.com/devncore/leagueoflegends)
+- 
+## 책 (Books)
 
 | 커버 | 제목 | 저자 | 연도 |
 |:---:|:----|:----|:----|
