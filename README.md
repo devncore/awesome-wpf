@@ -44,7 +44,7 @@
 | ![image][wpf-30] | Pro WPF in C# 2008: Windows Presentation Foundation with .NET 3.5 | Matthew MacDonald | 2008 |
 | ![image][wpf-31] | WPF 3d: Three-Dimensional Graphics with WPF and C# | Rod Stephens | 2018 |
 | ![image][wpf-32] | Pro XAML with C#: Application Development Strategies (covers WPF, Windows 8.1, and Windows Phone 8.1) | Buddy James, Lori LaLonde | 2015 |
-
+| ![image][wpf-33] | WPF recipes in C# 2008 | Sam Noble | 2008 |
 
 
 
@@ -81,4 +81,5 @@
 [wpf-30]: https://user-images.githubusercontent.com/52397976/127457179-f0a76d11-ad5b-485d-b8c1-2232b337dad0.png
 [wpf-31]: https://user-images.githubusercontent.com/52397976/127458279-55aabad7-009c-43b4-a835-bdcba83dac32.png
 [wpf-32]: https://user-images.githubusercontent.com/52397976/127458426-ac831d15-319a-489f-9cd6-3272fd106f19.png
+
 
