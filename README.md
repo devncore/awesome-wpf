@@ -38,8 +38,8 @@
 | ![image][wpf-24] | MVVM Survival Guide for Enterprise Architectures in Silverlight and WPF | Muhammad Shujaat Siddiqi, Ryan Vice | 2012 |
 | ![image][wpf-25] | MVVM Unleashed | Michael Brown | 2012 |
 | ![image][wpf-26] | Practical WPF Graphics Programming: Advanced .NET Graphics Development with the Windows Presentation Foundation Jack Xu | Jack Xu | 2007 |
-| ![image][wpf-27] |  |  |  |
-| ![image][wpf-28] |  |  |  |
+| ![image][wpf-27] | Practical C# and WPF For Financial Markets | Jack Xu | 2016 |
+| ![image][wpf-28] | Developer's Guide to Microsoft Prism 4: Building Modular MVVM Applications Using Windows Presentation Foundation and Microsoft Silverlight DAVID. HILL | Brian Noyes, Geoff Cox, Karl Shifflett, Bob Brumfield, Michael Puleio, DAVID. HILL | 2011 |
 | ![image][wpf-29] |  |  |  |
 | ![image][wpf-30] |  |  |  |
 | ![image][wpf-31] |  |  |  |
@@ -75,4 +75,6 @@
 [wpf-24]: https://user-images.githubusercontent.com/52397976/127455667-92c3b628-2ca7-4993-b155-ba26a525d7ef.png
 [wpf-25]: https://user-images.githubusercontent.com/52397976/127455890-046ddc09-2e8b-4c57-85a0-23773db30069.png
 [wpf-26]: https://user-images.githubusercontent.com/52397976/127456050-5ddb4e6c-da48-4374-b5b7-4fac8a196c54.png
+[wpf-27]: https://user-images.githubusercontent.com/52397976/127456418-194ff6dc-71a6-4ce6-8568-d76dcfebfaa3.png
+[wpf-28]: https://user-images.githubusercontent.com/52397976/127456600-7089b64d-6d70-4203-9576-08f8c920b204.png
 
