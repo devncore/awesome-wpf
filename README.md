@@ -19,9 +19,9 @@
 - **Windows Presentation Foundation Development Cookbook** _by 쿠날 초두리_
 - **Illustrated WPF** _by 다니엘 솔리스_
 
-| 커버 | 제목 | 연도 | 리뷰 | 저자|
+| 커버 | 제목 | 저자 | 연도 | 리뷰 |
 |:---:|:----|:----|:----|:----|
-| ![image][wpf-01] | 2009 | Illustrated WPF | ... | 다니엘 솔리스 |
+| ![image][wpf-01] | Illustrated WPF | 다니엘 솔리스 | 2009 | ... | 
 
 
 
