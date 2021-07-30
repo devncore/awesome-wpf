@@ -48,7 +48,7 @@
 | ![image][wpf-33] | WPF recipes in C# 2008 | Sam Noble | 2008 |
 | ![image][wpf-34] | Foundation Expression Blend 2 | Victor Gaudioso | 2008 |
 | ![image][wpf-35] | The Development Of Windows Presentation Foundation: Basics And Must-Know Information: Wpf Development On Linux | Gregg Mthimunye | 2021 |
-| ![image][wpf-36] |  |  |  |
+| ![image][wpf-36] | Pro XAML with C#: Application Development Strategies (covers WPF, Windows 8.1, and Windows Phone 8.1) | Buddy James, Lori LaLonde | 2015 |
 | ![image][wpf-37] |  |  |  |
 | ![image][wpf-38] |  |  |  |
 | ![image][wpf-39] |  |  |  |
@@ -98,6 +98,7 @@
 [wpf-33]: https://user-images.githubusercontent.com/52397976/127458813-1f671740-1fc7-4be5-8ce7-ac82d8d7de2e.png
 [wpf-34]: https://user-images.githubusercontent.com/52397976/127460360-88605c60-5dee-45be-8a56-93ca42742184.png
 [wpf-35]: https://user-images.githubusercontent.com/52397976/127460729-59826958-80ce-4e64-aaaf-5e6da20e7699.png
+[wpf-36]: https://user-images.githubusercontent.com/52397976/127640970-009dbc96-d708-49f6-8829-fe82410f3001.png
 
 
 
