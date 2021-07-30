@@ -8,7 +8,7 @@
 - [틱택토 tictactoe-wpf](https://github.com/devncore/tictactoe-wpf)
 - [리그오브레전드 leagueoflegends](https://github.com/devncore/leagueoflegends)
 - [탐색기 icommander](https://github.com/devncore/icommander)
-- 
+
 ## WPF 책
 
 | 커버 | 제목 | 저자 | 연도 |
