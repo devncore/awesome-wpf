@@ -49,15 +49,6 @@
 | ![image][wpf-34] | Foundation Expression Blend 2 | Victor Gaudioso | 2008 |
 | ![image][wpf-35] | The Development Of Windows Presentation Foundation: Basics And Must-Know Information: Wpf Development On Linux | Gregg Mthimunye | 2021 |
 | ![image][wpf-36] | Pro XAML with C#: Application Development Strategies (covers WPF, Windows 8.1, and Windows Phone 8.1) | Buddy James, Lori LaLonde | 2015 |
-| ![image][wpf-37] |  |  |  |
-| ![image][wpf-38] |  |  |  |
-| ![image][wpf-39] |  |  |  |
-| ![image][wpf-40] |  |  |  |
-| ![image][wpf-41] |  |  |  |
-| ![image][wpf-42] |  |  |  |
-| ![image][wpf-43] |  |  |  |
-| ![image][wpf-44] |  |  |  |
-| ![image][wpf-45] |  |  |  |
 | ![image][wpf-60] | 거침없이 배우는 익스프레션 블렌드 | 정진희 | 2011 |
 
 
