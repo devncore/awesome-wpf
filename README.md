@@ -2,7 +2,11 @@
 
 ## Contents
 - [WPF 학습 앱](#wpf-학습-앱)
+- [WPF 연구](#wpf-연구)
 - [WPF 책](#wpf-책)
+
+## WPF 연구
+TBD...
 
 ## WPF 학습 앱
 - [틱택토 tictactoe-wpf](https://github.com/devncore/tictactoe-wpf)
