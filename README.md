@@ -1,7 +1,7 @@
 # awesome-wpf
 ## Contents
 - [WPF 연구](#wpf-연구)
-- [WPF 앱](#wpf-학습-앱)
+- [WPF 데모](#wpf-데모)
 - [WPF 책](#wpf-책)
 
 ## WPF 연구
@@ -10,7 +10,7 @@
 - [DependencyProperty](https://github.com/devncore/dependencyproperty)
 - [WPF Code Rules](https://github.com/devncore/wpf-code-rules)
  
-## WPF 학습 앱
+## WPF 데모
 - [틱택토](https://github.com/devncore/tictactoe-wpf)
 - [윈도우 탐색기](https://github.com/devncore/icommander)
 - [리그오브레전드](https://github.com/devncore/leagueoflegends)
