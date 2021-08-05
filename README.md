@@ -23,6 +23,8 @@
 
 ## WPF 책
 
+> (주의) 아직 누락된 책이 많습니다.
+
 | 커버 | 제목 | 저자 | 연도 |
 |:---:|:----|:----|:----|
 | ![image][wpf-01] | Windows Presentation Foundation Unleashed | Adam Nathan | 2006 |
