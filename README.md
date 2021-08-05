@@ -11,10 +11,10 @@
 - [WPF Code Rules](https://github.com/devncore/wpf-code-rules)
  
 ## WPF 데모
-- [틱택토](https://github.com/devncore/tictactoe-wpf)
-- [윈도우 탐색기](https://github.com/devncore/icommander)
-- [리그오브레전드](https://github.com/devncore/leagueoflegends)
-- [데브플로우](https://github.com/devncore/devflow)
+- [TicTacToe](https://github.com/devncore/tictactoe-wpf)
+- [iCommander](https://github.com/devncore/icommander)
+- [League of Legends](https://github.com/devncore/leagueoflegends)
+- [DevFlow](https://github.com/devncore/devflow)
 
 ## WPF 책
 
