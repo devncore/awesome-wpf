@@ -1,7 +1,7 @@
 # awesome-wpf
 ## Contents
-- [WPF 학습 앱](#wpf-학습-앱)
 - [WPF 연구](#wpf-연구)
+- [WPF 앱](#wpf-학습-앱)
 - [WPF 책](#wpf-책)
 
 ## WPF 연구
