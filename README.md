@@ -29,7 +29,7 @@
 |:---:|:----|:----|:----|
 | ![image][wpf-01] | Windows Presentation Foundation Unleashed | Adam Nathan | 2006 |
 | ![image][wpf-02] | WPF 4 Unleashed | Adam Nathan | 2010 |
-| ![image][wpf-03] | Programming WPF: Building Windows UI with Windows Presentation Foundation | Ian Griffith, Chris Sells | 2007 | 
+| ![image][wpf-03] | Programming WPF: Building Windows UI with Windows Presentation Foundation | Ian Griffith, Chris Sells | 2007 |
 | ![image][wpf-04] | Pro WPF 4.5 in C#: Windows Presentation Foundation in .NET 4.5 | Matthew MacDonald | 2012 |
 | ![image][wpf-05] | Essential Windows Presentation Foundation (WPF) | Chris Anderson | 2012 |
 | ![image][wpf-06] | WPF Control Development Unleashed: Building Advanced User Experiences | Pavan Podila, Kevin Hoffman | 2012 |
@@ -63,7 +63,6 @@
 | ![image][wpf-34] | Foundation Expression Blend 2 | Victor Gaudioso | 2008 |
 | ![image][wpf-35] | The Development Of Windows Presentation Foundation: Basics And Must-Know Information: Wpf Development On Linux | Gregg Mthimunye | 2021 |
 | ![image][wpf-36] | Pro XAML with C#: Application Development Strategies (covers WPF, Windows 8.1, and Windows Phone 8.1) | Buddy James, Lori LaLonde | 2015 |
-| ![image][wpf-38] | Pro WPF and Silverlight MVVM: Effective Application Development with Model-View-ViewModel Gary Hall ?
 | ![image][wpf-60] | 거침없이 배우는 익스프레션 블렌드 | 정진희 | 2011 |
 
 
@@ -105,13 +104,7 @@
 [wpf-34]: https://user-images.githubusercontent.com/52397976/127460360-88605c60-5dee-45be-8a56-93ca42742184.png
 [wpf-35]: https://user-images.githubusercontent.com/52397976/127460729-59826958-80ce-4e64-aaaf-5e6da20e7699.png
 [wpf-36]: https://user-images.githubusercontent.com/52397976/127640970-009dbc96-d708-49f6-8829-fe82410f3001.png
-[wpf-38]: https://user-images.githubusercontent.com/76234292/128364252-c4256133-ef5f-4a90-807d-e5d87dc53e5f.png
-[wpf-37]: https://user-images.githubusercontent.com/68521148/128361238-cb8cbf80-402c-4409-a822-209161b6b782.png
 
 
 
 [wpf-60]: https://user-images.githubusercontent.com/52397976/127459796-df02b5a1-e35d-4dfa-9e85-cb97d5034546.png
-[wpf-61]: https://user-images.githubusercontent.com/52397976/127459796-df02b5a1-e35d-4dfa-9e85-cb97d5034546.png
-
-
-TBD ...
