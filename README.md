@@ -8,6 +8,7 @@
 - [IValueConverter](https://github.com/devncore/ivalueconverter)
 - [Binding](https://github.com/devncore/wpf-xaml-binding)
 - [DependencyProperty](https://github.com/devncore/dependencyproperty)
+- [WPF Code Rules](https://github.com/devncore/wpf-code-rules)
  
 ## WPF 학습 앱
 - [틱택토](https://github.com/devncore/tictactoe-wpf)
