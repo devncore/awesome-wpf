@@ -8,10 +8,10 @@
 - [IValueConverter ivalueconverter](https://github.com/devncore/ivalueconverter)
  
 ## WPF 학습 앱
-- [틱택토 tictactoe-wpf](https://github.com/devncore/tictactoe-wpf)
-- [윈도우 탐색기 icommander](https://github.com/devncore/icommander)
-- [리그오브레전드 leagueoflegends](https://github.com/devncore/leagueoflegends)
-- [데브플로우 devflow](https://github.com/devncore/devflow)
+- [틱택토](https://github.com/devncore/tictactoe-wpf)
+- [윈도우 탐색기](https://github.com/devncore/icommander)
+- [리그오브레전드](https://github.com/devncore/leagueoflegends)
+- [데브플로우](https://github.com/devncore/devflow)
 
 ## WPF 책
 
