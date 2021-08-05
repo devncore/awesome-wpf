@@ -5,7 +5,7 @@
 - [WPF 책](#wpf-책)
 
 ## WPF 연구
-- [IValueConverter ivalueconverter](https://github.com/devncore/ivalueconverter)
+- [IValueConverter](https://github.com/devncore/ivalueconverter)
  
 ## WPF 학습 앱
 - [틱택토](https://github.com/devncore/tictactoe-wpf)
