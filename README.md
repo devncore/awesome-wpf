@@ -29,7 +29,7 @@
 |:---:|:----|:----|:----|
 | ![image][wpf-01] | Windows Presentation Foundation Unleashed | Adam Nathan | 2006 |
 | ![image][wpf-02] | WPF 4 Unleashed | Adam Nathan | 2010 |
-| ![image][wpf-03] | Programming WPF: Building Windows UI with Windows Presentation Foundation | Ian Griffith, Chris Sells | 2007 |
+| ![image][wpf-03] | Programming WPF: Building Windows UI with Windows Presentation Foundation | Ian Griffith, Chris Sells | 2007 | 
 | ![image][wpf-04] | Pro WPF 4.5 in C#: Windows Presentation Foundation in .NET 4.5 | Matthew MacDonald | 2012 |
 | ![image][wpf-05] | Essential Windows Presentation Foundation (WPF) | Chris Anderson | 2012 |
 | ![image][wpf-06] | WPF Control Development Unleashed: Building Advanced User Experiences | Pavan Podila, Kevin Hoffman | 2012 |
