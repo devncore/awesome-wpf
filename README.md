@@ -107,5 +107,4 @@
 [wpf-36]: https://user-images.githubusercontent.com/52397976/127640970-009dbc96-d708-49f6-8829-fe82410f3001.png
 
 
-
 [wpf-60]: https://user-images.githubusercontent.com/52397976/127459796-df02b5a1-e35d-4dfa-9e85-cb97d5034546.png
